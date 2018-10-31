@@ -2,6 +2,7 @@
 title: "Deploy the Official Kubernetes Dashboard"
 date: 2018-08-07T08:30:11-07:00
 weight: 10
+draft: true
 ---
 
 The official Kubernetes dashboard is not deployed by default, but there are

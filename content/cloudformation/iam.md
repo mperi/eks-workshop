@@ -2,7 +2,7 @@
 title: "Create the EKS Service Role"
 date: 2018-08-07T08:30:11-07:00
 weight: 10
-draft: true
+draft: false
 ---
 
 A service-linked role is a unique type of IAM role that is linked directly to

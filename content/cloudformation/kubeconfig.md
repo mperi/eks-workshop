@@ -2,7 +2,7 @@
 title: "Create KubeConfig File"
 date: 2018-08-07T10:09:31-07:00
 weight: 50
-draft: true
+draft: false
 ---
 
 Our KubeConfig file will need to know specific info about our EKS cluster. We

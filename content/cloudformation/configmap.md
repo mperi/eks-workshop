@@ -2,7 +2,7 @@
 title: "Create the Worker ConfigMap"
 date: 2018-08-07T12:00:40-07:00
 weight: 70
-draft: true
+draft: false
 ---
 
 The file found in the repository at *assets/worker-configmap.yml* contains a

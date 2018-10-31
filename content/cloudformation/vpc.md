@@ -2,7 +2,7 @@
 title: "Create the VPC"
 date: 2018-08-07T09:15:38-07:00
 weight: 30
-draft: true
+draft: false
 ---
 EKS suggests launching a single EKS Cluster into a VPC. To make that easy, EKS
 provides a CloudFormation template that we can use:

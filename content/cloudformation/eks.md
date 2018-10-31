@@ -2,7 +2,7 @@
 title: "Create the EKS Cluster"
 date: 2018-08-07T09:42:43-07:00
 weight: 40
-draft: true
+draft: false
 ---
 
 To build the EKS cluster, we need to tell the EKS service which IAM Service role

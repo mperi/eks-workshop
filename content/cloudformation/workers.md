@@ -1,9 +1,12 @@
 ---
-title: "Add Workers"
+title: "Add EC2 Workers - On-Demand and Spot"
 date: 2018-08-07T11:05:19-07:00
 weight: 60
-draft: true
+draft: false
 ---
+
+### TODO: Code here to highlight the spot node labels Note: Create atleast 2 separate ASG's like in blog.
+
 
 Now that your VPC and Kubernetes control plane are created, you can launch and
 configure your worker nodes. We will now use CloudFormation to launch worker

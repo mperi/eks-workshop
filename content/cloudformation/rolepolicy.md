@@ -2,7 +2,7 @@
 title: "Attach IAM Policy to the EKS Service Role"
 date: 2018-08-07T08:51:18-07:00
 weight: 20
-draft: true
+draft: false
 ---
 
 We have now created the IAM Role for the EKS Service. At the moment, it still

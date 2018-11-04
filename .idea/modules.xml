@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/eks-workshop.iml" filepath="$PROJECT_DIR$/.idea/eks-workshop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../mcd-test-account/.idea/mcd-test-account.iml" filepath="$PROJECT_DIR$/../../mcd-test-account/.idea/mcd-test-account.iml" />
     </modules>
   </component>
 </project>
